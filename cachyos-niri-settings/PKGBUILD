@@ -24,29 +24,20 @@ depends=(
   ttf-hack
   kvantum
   qt5ct
-  swaybg
-  swaylock-effects-git
-  swaylock-fancy-git
   niri
-  waybar
+  noctalia-shell
   xdg-desktop-portal-gnome
   xwayland-satellite
-  mako
-  wob
   pamixer
-  wofi
-  wlogout
   wl-clipboard
+  cliphist
   polkit-kde-agent
-  bemenu
-  bemenu-wayland
   xorg-xwayland
   capitaine-cursors
   cachyos-wallpapers
   kvantum-theme-nordic-git
   brightnessctl
   cachyos-nord-gtk-theme-git
-  swww
 )
 provides=('cachyos-desktop-settings')
 conflicts=('cachyos-desktop-settings')
